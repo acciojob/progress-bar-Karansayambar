@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+.container{
+	display:flex;
+}
+.circle{
+	height:30px;
+	width:30px;
+	background:gray;
+}
